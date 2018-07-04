@@ -1,0 +1,11 @@
+﻿  Vector.cpp
+  Triangle.cpp
+  Ray.cpp
+  main.cpp
+c:\users\callum\documents\visual studio 2015\projects\callum berger - gcp assignment\moller-trumbore ray intersection\moller-trumbore ray intersection\main.cpp(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\callum\documents\visual studio 2015\projects\callum berger - gcp assignment\moller-trumbore ray intersection\moller-trumbore ray intersection\main.cpp(207): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GameObject.cpp
+  Generating Code...
+  LINK : C:\Users\Callum\Documents\Visual Studio 2015\Projects\Callum Berger - GCP Assignment\Moller-Trumbore Ray Intersection\Debug\Moller-Trumbore Ray Intersection.exe not found or not built by the last incremental link; performing full link
+  Moller-Trumbore Ray Intersection.vcxproj -> C:\Users\Callum\Documents\Visual Studio 2015\Projects\Callum Berger - GCP Assignment\Moller-Trumbore Ray Intersection\Debug\Moller-Trumbore Ray Intersection.exe
+  Moller-Trumbore Ray Intersection.vcxproj -> C:\Users\Callum\Documents\Visual Studio 2015\Projects\Callum Berger - GCP Assignment\Moller-Trumbore Ray Intersection\Debug\Moller-Trumbore Ray Intersection.pdb (Partial PDB)

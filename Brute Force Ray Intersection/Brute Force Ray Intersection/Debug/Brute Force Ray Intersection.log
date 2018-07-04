@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\callum\documents\visual studio 2015\projects\callum berger - gcp assignment\brute force ray intersection\brute force ray intersection\main.cpp(192): warning C4018: '<': signed/unsigned mismatch
+c:\users\callum\documents\visual studio 2015\projects\callum berger - gcp assignment\brute force ray intersection\brute force ray intersection\main.cpp(225): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Brute Force Ray Intersection.vcxproj -> C:\Users\Callum\Documents\Visual Studio 2015\Projects\Callum Berger - GCP Assignment\Brute Force Ray Intersection\Debug\Brute Force Ray Intersection.exe
+  Brute Force Ray Intersection.vcxproj -> C:\Users\Callum\Documents\Visual Studio 2015\Projects\Callum Berger - GCP Assignment\Brute Force Ray Intersection\Debug\Brute Force Ray Intersection.pdb (Partial PDB)

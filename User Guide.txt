@@ -1,0 +1,11 @@
+Running the program in both release and debug will start the ray intersection function.
+
+The object will be rendered to the screen and the time taken will be displayed within the console.
+
+After 10 loops of the intersection function, an average of the previous 10 times will be displayed on the console.
+
+A text file will the store all intersection points of the object with a number representing the which iteration of the object the file is storing with the name of the object at the top of the file.
+
+All objects used for testing can be found in the Objects folder
+
+In order to change the object being tested, navigate to the GameObject.cpp within visual Studio and locate the variable m_filename. Change the value of this variable to the name of the object you wish to test on and then compile the program with the object file within the program folder.
